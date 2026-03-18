@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\sibis\Downloads\Sibishan Sivanantham - COE328 - Lab 6-20241128T172138Z-001\Sibishan Sivanantham - COE328 - Lab 6\simulation\qsim
+vproblem3
+Z1 !s100 g5hDHTG6e=k3<Jk;kENP72
+Z2 IVBVI0I=;o[Qh8LH@7m<:L2
+Z3 Vn9AAi7<Db1dkmEogOUGI_1
+Z4 dC:\Users\sibis\Downloads\Sibishan Sivanantham - COE328 - Lab 6-20241128T172138Z-001\Sibishan Sivanantham - COE328 - Lab 6\simulation\qsim
+Z5 w1733230473
+Z6 8alu.vo
+Z7 Falu.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|alu.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1733230476.529000
+Z12 !s107 alu.vo|
+!s101 -O0
+vproblem3_vlg_check_tst
+!i10b 1
+Z13 !s100 zL=<WeN3W<E;;_Ng2Tz]j3
+Z14 I8jPFgb;N`jl?UeJ7^O:Y51
+Z15 V:Umj3n8Gm6n<KJ0W;I@Ik2
+R4
+Z16 w1733230472
+Z17 8alu.vt
+Z18 Falu.vt
+L0 65
+R8
+r1
+!s85 0
+31
+Z19 !s108 1733230476.679000
+Z20 !s107 alu.vt|
+Z21 !s90 -work|work|alu.vt|
+!s101 -O0
+R10
+vproblem3_vlg_sample_tst
+!i10b 1
+Z22 !s100 FDEL4Tk@UXMkJF6zzEI0J3
+Z23 IGca_JaUGJJMT==?5;;`IS3
+Z24 VDE`OFVWW2_o43WWmUeEOY1
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vproblem3_vlg_vec_tst
+!i10b 1
+!s100 7`]za4J9[o8dYdbeQ6=ga3
+IVZF^0GJH<GlTmebW6Nlm63
+Z25 Vhm[Iaf_4LjJ7Y>1@j99aW0
+R4
+R16
+R17
+R18
+Z26 L0 401
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
